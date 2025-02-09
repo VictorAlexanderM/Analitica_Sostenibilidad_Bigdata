@@ -1,0 +1,13 @@
+# Directories to ignore
+asu1/
+**/asu1/
+Unidad_1_entrega/Analitica_Sostenibilidad_Bigdata/asu1/
+GeoPandas/
+ava1/
+avs2/
+
+# CSV and Excel files to ignore
+/c/Universidad/SBA/Unidad_1_entrega/Analitica_Sostenibilidad_Bigdata/*.csv
+/c/Universidad/SBA/Unidad_1_entrega/Analitica_Sostenibilidad_Bigdata/*.xlsx
+*.csv
+*.xlsx
