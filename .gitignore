@@ -1,8 +1,9 @@
 # Directories to ignore
+/c/Universidad/SBA/Unidad_1_entrega/Analitica_Sostenibilidad_Bigdata/asu1/
+/c/Universidad/SBA/Unidad_1_entrega/Analitica_Sostenibilidad_Bigdata/GeoPandas/
 asu1/
 **/asu1/
 Unidad_1_entrega/Analitica_Sostenibilidad_Bigdata/asu1/
-GeoPandas/
 ava1/
 avs2/
 
